@@ -1,6 +1,12 @@
 **Credit Card Transaction Report**
 This project showcases an interactive Power BI dashboard that visualizes credit card transaction data. It provides valuable insights into transaction patterns, customer spending behavior, and key metrics to support data-driven decisions.
 
+![image](https://github.com/user-attachments/assets/a9433850-201b-4621-acca-c67e27bfdb0f)
+
+
+![image](https://github.com/user-attachments/assets/5ac9d091-9085-47c2-af55-10e4cd4cb091)
+
+
 **Project Overview**
 The Credit Card Transaction Report is designed to analyze and summarize credit card transaction data for a specific period. The dashboard provides detailed insights into:
 
